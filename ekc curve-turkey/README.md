@@ -4,5 +4,4 @@ This project explores the Environmental Kuznets Curve (EKC) hypothesis in the co
 
 # Files
 - EKC_curve.R
-- EKC Curve for Turkey.Rproj
 - turkey_CO2_dataset.csv
